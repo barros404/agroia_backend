@@ -1,0 +1,20 @@
+{
+    "errors": {
+      "auth": {
+        "invalidCredentials": "Email ou senha inválidos",
+        "userExists": "Utilizador já existe",
+        "unauthorized": "Não autorizado, faça login"
+      },
+      "parcela": {
+        "notFound": "Parcela não encontrada"
+      }
+    },
+    "success": {
+      "parcela": {
+        "created": "Parcela criada com sucesso",
+        "updated": "Parcela atualizada com sucesso",
+        "deleted": "Parcela removida com sucesso"
+      }
+    }
+  }
+  
